@@ -12,13 +12,11 @@
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
-    <description><![CDATA[
-        Hide the “Unlock Ultimate” button from the UI to free up layout space and improve overall visual balance.
-        This change removes the button element without affecting any core functionality or system behavior.
-        The purpose is purely to optimize screen space, reduce UI clutter, and provide a cleaner interface for users.
-        The feature does not modify licensing logic, activation flow, or backend processing.
-        It only impacts the visibility of the button in the user interface.
-    ]]></description>
+    <description>
+        Hide the Unlock Ultimate button to free up UI space and improve layout clarity in IntelliJ IDEA Community
+        Edition. This plugin only affects the visibility of the button and does not modify licensing or core
+        functionality.
+    </description>
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
